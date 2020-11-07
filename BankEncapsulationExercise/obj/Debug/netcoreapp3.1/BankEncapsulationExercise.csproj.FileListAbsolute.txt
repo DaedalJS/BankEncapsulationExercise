@@ -1,0 +1,13 @@
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.exe
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.deps.json
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\bin\Debug\netcoreapp3.1\BankEncapsulationExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.csprojAssemblyReference.cache
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\BankEncapsulationExercise\BankEncapsulationExercise\obj\Debug\netcoreapp3.1\BankEncapsulationExercise.genruntimeconfig.cache
